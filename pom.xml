@@ -4,7 +4,7 @@
 
     <groupId>se.vidstige</groupId>
     <artifactId>jadb</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <url>https://github.com/adelolmo/jadb</url>
 
@@ -112,7 +112,7 @@
         <url>scm:git:git@github.com:adelolmo/jadb.git</url>
         <connection>scm:git:git@github.com:adelolmo/jadb.git</connection>
         <developerConnection>scm:git:git@github.com:adelolmo/jadb.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jadb-1.0.0</tag>
     </scm>
 
     <distributionManagement>
